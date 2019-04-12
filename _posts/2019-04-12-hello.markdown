@@ -6,4 +6,4 @@ author: mrgooodway
 categories: hello
 ---
 
-hello world
+안녕하세요. MR.GOODWAY입니다.
